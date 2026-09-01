@@ -5,7 +5,7 @@ repo_url: https://github.com/abdoulhakimelmi-lang/cours-arcpy
 edit_uri: edit/main/docs/
 
 theme:
-  name: mkdocs
+  name: readthedocs
   locale: fr
 
 nav:
