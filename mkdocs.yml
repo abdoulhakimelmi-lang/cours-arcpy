@@ -1,0 +1,25 @@
+site_name: Cours Python & ArcPy
+site_description: Initiation à Python et ArcPy
+site_url: https://abdoulhakimelmi-lang.github.io/cours-arcpy/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: teal
+    accent: cyan
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Accueil: index.md
+  - Cours Python & ArcPy: cours-arcpy.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
