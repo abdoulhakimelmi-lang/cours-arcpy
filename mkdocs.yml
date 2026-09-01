@@ -1,10 +1,12 @@
 site_name: Cours Python & ArcPy
 site_description: Initiation à Python et ArcPy
 site_url: https://abdoulhakimelmi-lang.github.io/cours-arcpy/
+repo_url: https://github.com/abdoulhakimelmi-lang/cours-arcpy
+edit_uri: edit/main/docs/
 
 theme:
-  name: material
-  language: fr
+  name: mkdocs
+  locale: fr
 
 nav:
   - Accueil: index.md
