@@ -5,8 +5,8 @@
 | `signature-1-principale.html` | Ancienne proposition (coordonnées fictives, non retenue) |
 | `signature-2-minimaliste.html` | Ancienne proposition (coordonnées fictives, non retenue) |
 | `signature-3-logo-dir-est.html` | **A** – logo DIR Est + « SIG · Data · WebSIG » |
-| `signature-3b-logo-dir-est-sans-domaine.html` | **B** – logo DIR Est, sans « SIG · Data · WebSIG » (**version recommandée**) |
-| `signature-3c-photo-experimentale.html` | **C** – version expérimentale avec photo ronde (76 px), sans logo DIR Est |
+| `signature-3b-logo-dir-est-sans-domaine.html` | **B** – logo DIR Est, sans « SIG · Data · WebSIG » |
+| `signature-3c-photo-experimentale.html` | **C** – photo ronde (76 px), sans logo DIR Est (**version retenue**) |
 
 Coordonnées utilisées dans A, B et C : téléphone 06 05 52 71 03,
 e-mail ing.abdoulhakim.elmi@gmail.com, lien « LinkedIn » cliquable vers le profil
